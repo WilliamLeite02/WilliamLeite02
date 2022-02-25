@@ -56,7 +56,8 @@
   <h1>
   </h1>
   
-  
+   ![Snake animation](https://github.com/WilliamLeite02/WilliamLeite02/blob/output/github-contribution-grid-snake.svg)
+   
 ~~~javascript
  <div align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WilliamLeite02&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
