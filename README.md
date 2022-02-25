@@ -24,13 +24,11 @@
 function SayHello(){
 retunr = "hi"
 }
-~~~
-````
-┍━━━━━━━━━━━━━━━━━━━━━☟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
-   CCCC   OO   FFFFF FFFFF EEEEE EEEEE 
-  C      O  O  F     F     E     E   
-  C     O    O FFF   FFF   EEE   EEE   
-  C      O  O  F     F     E     E  
-   CCCC   OO   F     F     EEEEE EEEEE.......ᕦ(ò_óˇ)ᕤ 
-┕━━━━━━━━━━━━━━━━━━━━━━☝︎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
-````
+if(Coffee.isEmpty()){
+keepCoding();
+}
+else
+{
+Coffee.fill();
+}
+~~~~
